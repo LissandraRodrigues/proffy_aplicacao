@@ -1,2 +1,0 @@
-# proffy_mobile
- Proffy
