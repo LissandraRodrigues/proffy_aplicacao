@@ -1,6 +1,6 @@
 # Proffy
 
-Este é o servidor do Proffy, uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas.
+Proffy é uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas.
 
 - Para ver o vídeo do funcionamento da aplicação, clique na imagem abaixo:
 
