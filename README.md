@@ -4,7 +4,7 @@ Proffy é uma aplicação web cujo objetivo é conectar pessoas que querem dar a
 
 - Para ver o vídeo do funcionamento da aplicação, clique na imagem abaixo:
 
-[![Watch the video](https://github.com/LissandraRodrigues/proffy_aplicacao/blob/master/Proffy_Exemplo.png?raw=true)](https://youtu.be/PDvNTTUjlOM)
+[![Watch the video](https://github.com/LissandraRodrigues/proffy_aplicacao/blob/master/Proffy_Exemplo.jpg?raw=true)](https://youtu.be/PDvNTTUjlOM)
   
  ## Descrição
  
